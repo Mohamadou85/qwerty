@@ -1,0 +1,3 @@
+prenom : Abdoul Wahid
+nom : Mohamadou
+specialite : tronc commun
